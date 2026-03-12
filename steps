@@ -2,6 +2,8 @@ create one web application
 
 Project Name:- currency_converter 
 
+wright click on project > new > converter > packgae -convert
+
 Open the converter.java file select its design tab in the operations -> Add operation
 
 Add the operation of amount and other is add ->num1, num2(code converter)
@@ -14,7 +16,11 @@ under  currency_converter -> Web pages  -> right click on ->New -> JSP -> input(
 
 Now we have to create the web service client right click on project currency_converter->New -> Web Service Client
 
+browose > currency_converter > convert packagw - client
+
+currency_converter  > new > jsp > output  (code -output)
+
 Now in project section you can se a new folder is been created named “web service refrence”. double click to expand it you should get the following 
 
-Hold the operation or your operation name and drag it into the output.jsp in body tag as shown:You will get the following auto generated code(code-output)
+Hold the operation or your operation name and drag it into the output.jsp in body tag as shown:You will get the following auto generated code
 
